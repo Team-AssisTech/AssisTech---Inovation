@@ -21,7 +21,7 @@ body {background: black;}
 
 nav {
     background-color: black;
-    z-index: 2;
+    z-index: 3;
     text-align: center;
     display: flex;
     position: fixed;
